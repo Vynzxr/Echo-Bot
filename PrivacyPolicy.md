@@ -1,4 +1,4 @@
-Privacy Policy
+## Privacy Policy
 To provide our services we need to collect some data from our users. Data that isn't relevant to our services is never collected and stored. We assume that every user has read and agreed to this policy.
 
 Collected data
